@@ -1,17 +1,20 @@
-##ITSP 2015-PROPOSAL
-#DESIGNING A FOOTBALL ENGINE
+#ITSP 2015-PROPOSAL
+##DESIGNING A FOOTBALL ENGINE
 By- Rohan, Rupanshu, Sumith, Yogesh
 
-ABSTRACT
+##ABSTRACT
 We will design a football(soccer) game engine. The main objectives being
 To identify the entities in your game system.
 To identify the design problems.
 To apply patterns to address your design specifications.
-MOTIVATION
+
+##MOTIVATION
 
 Motivation being to simulate the backend of FIFA Manager(though the end product might not be that robust). En route we also get to learn about various data structures and algorithms and their implementation along with the concept of pattern centric software engineering. 
 The idea being that developers tend to reuse class relationships and object collaborations to simplify the design process. A design pattern consists of various cooperating objects (classes, relationships etc) - a consistent idiom for designers and programmers to speak about their design. Some examples being observer, decorator, strategy and builder patterns. A design pattern is normally represented with the help of a UML diagram which will also be learnt during the process.
-IMPLEMENTATION
+
+##IMPLEMENTATION
+
 Let us assume that the end user is going to operate the game in the following sequence .
 Start the game
 Select two teams
